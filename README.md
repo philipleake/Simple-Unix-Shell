@@ -9,7 +9,7 @@ git clone https://github.com/philipleake/Simple-Unix-Shell.git
 ```
 
 ## Usage
-Use gcc to compile and ./ to run
+Use Makefile to compile and ./sh257 to run
 
 ## License
 
